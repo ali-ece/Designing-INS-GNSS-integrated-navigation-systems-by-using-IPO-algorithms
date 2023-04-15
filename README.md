@@ -1,2 +1,4 @@
-# Designing-INS-GNSS-integrated-navigation-systems-by-using-IPO-algorithms
-In this paper, an attempt is made to leverage on novel metaheuristic optimization approaches for designing integrated navigation systems. For this purpose, a simplified version of the inclined planes system optimization (called SIPO) algorithm
+First, all zip files should be unzipped and placed in one place (one folder).
+Possible addresses listed in the codes should be updated according to the address on the new computer system.
+To get the outputs of each algorithm, run each algorithm (eg "m.ga") separately.
+At the end, navego_example_synth must be run to receive specialized outputs.
